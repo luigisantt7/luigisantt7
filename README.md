@@ -45,7 +45,7 @@ luigi = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,sklearn,anaconda,aws,gcp,git,github,vscode,linux&theme=dark&perline=12" />
+<img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,aws,gcp,git,github,vscode,linux&theme=dark&perline=10" />
 
 </div>
 
@@ -58,10 +58,6 @@ luigi = {
 **Dados & Machine Learning · Data & ML**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-6E40C9?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 **BI & Visualização · BI & Analytics**
@@ -88,8 +84,6 @@ luigi = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP%20Ariba-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
 ---
 
 ### 💼 Experiência · Experience
