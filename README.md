@@ -19,7 +19,7 @@
 ```python
 luigi = {
     "role":      "Data & AI Intern @ Bradesco — Inteligência em Compras",
-    "location":  "São Paulo, Brasil 🇧🇷",
+    "location":  "São Paulo, Brasil",
     "education": "Sistemas de Informação @ Faculdade Impacta (2025 – 2028)",
     "previous":  "Tax Transformation @ Mercado Livre",
 
@@ -30,7 +30,7 @@ luigi = {
     ],
     "learning": ["Machine Learning", "Cloud (AWS / GCP)", "AI Agents & RAG"],
     "languages": {"pt": "native", "en": "B2 / full professional", "es": "basic"},
-    "fun_fact": "Também sou fotógrafo e videomaker 🎥",
+    "fun_fact":  "Também sou fotógrafo e videomaker",
 }
 ```
 
@@ -127,12 +127,14 @@ luigi = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luigisantt7&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigisantt7&layout=compact&hide_border=true&theme=github_dark" />
-
 <img src="https://streak-stats.demolab.com?user=luigisantt7&theme=github-dark-blue&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luigisantt7&theme=github-compact&hide_border=true&area=true" width="100%" />
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+
+<img src="https://raw.githubusercontent.com/luigisantt7/luigisantt7/output/github-snake-dark.svg" width="100%" />
 
 </div>
 
