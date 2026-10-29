@@ -16,28 +16,26 @@
 
 ### 🧠 Sobre mim · About me
 
-```python
-luigi = {
-    "role":      "Data & AI Intern @ Bradesco — Inteligência em Compras",
-    "location":  "São Paulo, Brasil",
-    "education": "Sistemas de Informação @ Faculdade Impacta (2025 – 2028)",
-    "previous":  "Tax Transformation @ Mercado Livre",
+<img align="right" src="./assets/data-anim.svg" width="320" alt="Animação de análise de dados" />
 
-    "working_on": [
-        "Dashboards executivos e KPIs para decisões em Procurement",
-        "ETL e análise de dados para a alta liderança",
-        "Projetos de transformação digital e IA",
-    ],
-    "learning": ["Machine Learning", "Cloud (AWS / GCP)", "AI Agents & RAG"],
-    "languages": {"pt": "native", "en": "B2 / full professional", "es": "basic"},
-    "fun_fact":  "Também sou fotógrafo e videomaker",
-}
-```
+Oi! Sou o **Luigi**, estudante de **Sistemas de Informação** na Faculdade Impacta e apaixonado por **dados e inteligência artificial**.
 
-- 📊 Transformo dados brutos em **indicadores, dashboards e insights** para tomada de decisão.
-- 🤖 Construo **agentes de IA e automações** com n8n, Python e LLMs para eliminar trabalho manual.
-- 🧪 Participei do desenvolvimento do **Tax Bot** no Mercado Livre — testes, validação e documentação em bases **RAG**.
-- 🌱 Embaixador Google e participante dos bootcamps de **GenAI & Dados** e **Agentes de IA** do Bradesco.
+Hoje sou estagiário de **Inteligência em Compras no Bradesco**, onde trabalho com extração e tratamento de dados, **dashboards executivos** e indicadores que apoiam decisões da alta liderança.
+
+Antes, no **Mercado Livre** (Tax Transformation), construí **automações com Python**, **agentes de IA com n8n** e participei do desenvolvimento do **Tax Bot**, com testes e documentação em bases **RAG**.
+
+Agora estou me aprofundando em **Machine Learning**, **Cloud (AWS / GCP)** e **agentes de IA**.
+
+<sub><i>Data & AI intern turning raw data into decisions and manual work into automated workflows.</i></sub>
+
+<br clear="right"/>
+
+**Em resumo**
+
+- Dados brutos → **indicadores, dashboards e insights**
+- Trabalho manual → **agentes de IA e automações**
+- Embaixador Google · bootcamps de **GenAI & Dados** e **Agentes de IA** (Bradesco)
+- Inglês avançado (B2) · também sou fotógrafo e videomaker
 
 ---
 
